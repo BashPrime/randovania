@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 -   Added: The visor and beam you start the game equipped with is now configurable.
+    
+-   Added: You can choose which Prime game to the *Hint Item Names* tab uses.
 
 -   Added: Method to climb to the portal Base Access with just Screw Attack (Intermediate and above).
 
