@@ -20,7 +20,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 -   Changed: Auto tracker internally uses a configuration file for the item positions.
 
--   Changed: The item pool tab when customizing presets now can edit major items directly. 
+-   Changed: The item pool tab when customizing presets now can edit major items directly.
+
+-   Changed: The hint categories `Missile-related` and `Beam-related upgrade` were replaced with `non-elemental weapon` and `elemental weapon`, respectively.
+    They're mostly the same, with Power Beam, Charge Beam and Super Missile being considered non-elemental. Check the *Hint Item Names* FAQ tab.
 
 -   Changed: Defeating Quadraxis with Power Bombs is now Intermediate (from Beginner).
 
